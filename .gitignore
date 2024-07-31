@@ -1,2 +1,3 @@
 videos/*
 clean_videos.sh
+__pycache__/
